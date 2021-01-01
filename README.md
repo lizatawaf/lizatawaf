@@ -7,9 +7,9 @@
     <br> I am a software devaloper 
       <br> That enjoys working on Full Stack applications 
     <br> and giving  <em>designs</em>  <em> life </em> 
-    <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
-    <img src="https://media.giphy.com/media/gLbxPIO6lIMZEPm7XN/source.gif" width="240px" align="center">
-    <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:lizatawaf@gmail.com?subject=Let's Build Together">lizatawaf@gmail.com</a>
+    <img src="https://media.tenor.com/images/6edf48d0aa6b5f038d1bef0e86d6698d/tenor.gif" width="100px"><br><br>
+    <br><br>:coffee: Let's talk? 💌 @ 
+    email <a href="mailto:lizatawaf@gmail.com?subject=Let's Build Together">lizatawaf@gmail.com</a>
     <br><br><em>also.. new portfolio coming soon</em>
   </samp>
   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">   
