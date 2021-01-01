@@ -3,9 +3,9 @@
   <img src= "https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif" width="100px">
   <br><br>
   <samp>
-    :wave: Hi there ツ It's Liza 
-    <br>I am striving to help humans
-      <br>be the best version of themselves 
+    :wave: Hi ツ It's me, Liza 
+    <br> I am a software devaloper 
+      <br> That enjoys working on Full Stack applications 
     <br>through  <em>design</em> & <em> code </em> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
     <img src="https://media.giphy.com/media/gLbxPIO6lIMZEPm7XN/source.gif" width="240px" align="center">
     <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:lizatawaf@gmail.com?subject=Let's Build Together">lizatawaf@gmail.com</a>
