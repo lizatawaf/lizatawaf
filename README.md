@@ -11,11 +11,10 @@
     <br><br>:coffee: Let's talk? 💌 @ 
     <br> Email <a href="mailto:lizatawaf@gmail.com?subject=Hi Liza!! I saw your GitHub">lizatawaf@gmail.com</a>
     <br> Linkedin <a href="www.linkedin.com/in/lizatawaf">www.linkedin.com/in/lizatawaf</a>
-    <br><br><em>also.. new portfolio coming soon</em>
+    <br><br><em>My portfolio coming soon</em>
   </samp>
   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">   
   <samp>
-  <br><em>but until then checkout my blogs</em>
      <br><img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> <a href="https://lizatawaf.com">lizatawaf.com</a> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px">
   </samp>
 </p>
