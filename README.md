@@ -1,6 +1,6 @@
 <p align="center" >
+  <p align="center" >
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">
-  <div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/WOwiryOPA0G6jhKqB0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/love-breadtree-bread-tree-WOwiryOPA0G6jhKqB0">via GIPHY</a></p>
   <br><br>
   <samp>
     :wave: Hi there ツ It's Liza 
