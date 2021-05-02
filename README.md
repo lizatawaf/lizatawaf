@@ -11,7 +11,6 @@
     <br><br> Let's talk? @ 
     <br> Email <a href="mailto:lizatawaf@gmail.com?subject=Hi Liza!! I saw your GitHub">lizatawaf@gmail.com</a>
      <br> <p align="center"><a href="www.linkedin.com/in/lizatawaf"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-    <br> Linkedin <a href="www.linkedin.com/in/lizatawaf">www.linkedin.com/in/lizatawaf</a>
     <br><br><em>My portfolio coming soon</em>
   </samp>
   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">   
